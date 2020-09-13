@@ -56,7 +56,7 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 </details>
 
 <details>
-  <summary> Github Stats</summary>
+  <summary>:star: Github Stats</summary>
 
   <img align="left" alt="Kartikey's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kartikeysingh6&show_icons=true&hide_border=true" />
 
