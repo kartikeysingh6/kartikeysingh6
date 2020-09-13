@@ -5,8 +5,6 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 
 ## I'm a Gamer, a Programmer, an Ethical Hacker and an Indian!
 
-<a href="https://github.com/kartikeysingh6/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeysingh6&layout=compact" /></a>
-
 - 🔭 I’m currently learning about Git and GitHub!(You can clearly see 😄)
 - 🏆 Gold Star at Problem Solving and C++ [HackerRank][hackerrank]
 - 🥈 Silver Star at C [HackerRank][hackerrank]
@@ -48,7 +46,7 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 <!-- YOUTUBE:END -->
 
 <details>
-  <summary>:star: Recent Github Activity</summary>
+  <summary>:star: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 <br>
@@ -58,10 +56,11 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 </details>
 
 <details>
-  <summary>:star: Github Stats</summary>
+  <summary>:star: GitHtub Stats</summary>
 
   <img align="left" alt="Kartikey's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kartikeysingh6&show_icons=true&hide_border=true" />
-
+  <br>
+  <a href="https://github.com/kartikeysingh6/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeysingh6&layout=compact" /></a>
 </details>
 
 [website]: https://coolnotepad.webs.com
