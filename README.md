@@ -1,9 +1,11 @@
-## Hello there and Welcome to my GitHub Profile!, My name is Kartikey Singh.😄
+### Hello there and Welcome to my GitHub Profile!, My name is Kartikey Singh.😄
 
 I was born in holy city Varanasi, I did my 12th from Central Hindu Boys School and I'm 
 currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopal.
 
 ## I'm a Gamer, a Programmer, an Ethical Hacker and an Indian!
+
+<a href="https://github.com/kartikeysingh6/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeysingh&layout=compact" /></a>
 
 - 🔭 I’m currently learning about Git and GitHub!(You can clearly see 😄)
 - 🏆 Gold Star at Problem Solving and C++ [HackerRank][hackerrank]
