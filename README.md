@@ -50,7 +50,7 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
   
 <!--START_SECTION:activity-->
 <br>
-- 💲 Made [GoldPriceChecker][gpc]
+💲 Made GoldPriceChecker (https://github.com/RetardSquad/PythonProjects/tree/master/GoldPriceChecker)
 <!--END_SECTION:activity-->
 
 </details>
@@ -71,4 +71,3 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 [hackerrank]: https://www.hackerrank.com/kartikeysingh_6
 [codcf]: https://www.codechef.com/users/kartikeysingh6
 [fb]: https://www.facebook.com/kartikeysingh6
-[gpc]: https://github.com/RetardSquad/PythonProjects/tree/master/GoldPriceChecker
