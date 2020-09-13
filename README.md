@@ -9,7 +9,7 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 - 🏆 Gold Star at Problem Solving [HackerRank][hackerrank]
 - 🏆 Gold Star at C++ [HackerRank][hackerrank]
 - 🥈 Silver Star at C [HackerRank][hackerrank]
-- 2⭐ at [CodeChef][codcf]
+- ⭐ 2 Stars at [CodeChef][codcf]
 - 😎 Hobbies: Playing videogames, rapping, solving rubix cube
 
 ### Concatenate with me:
@@ -22,11 +22,13 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 
 <br />
 
-### Languages I know:
+### Languages and Tools I know:
 <img align="left" alt="C++" width="26px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" />
+<img align="left" alt="Python" width="26px" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Kali Linux" width="26px" src="https://www.freepngimg.com/thumb/android/68988-kali-android-linux-free-clipart-hq.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
