@@ -50,7 +50,7 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
   
 <!--START_SECTION:activity-->
 <br>
-💲 Made a project named [GoldPriceChecker][https://github.com/RetardSquad/PythonProjects/tree/master/GoldPriceChecker]
+- 💲 Made a project named [GoldPriceChecker](https://github.com/RetardSquad/PythonProjects/tree/master/GoldPriceChecker)
 <!--END_SECTION:activity-->
 
 </details>
