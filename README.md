@@ -1,15 +1,17 @@
-### Hello there and Welcome to my GitHub Profile!, My name is Kartikey Singh.😄
+
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+## Welcome to my GitHub Profile!, My name is Kartikey Singh.😄
 
 I was born in holy city Varanasi, I did my 12th from Central Hindu Boys School and I'm 
 currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopal.
 
 ## I'm a Gamer, a Programmer, an Ethical Hacker and an Indian!
 
-- 🔭 I’m currently learning about Git and GitHub! (You can clearly see 😄)
+- 🔭 I’m currently learning about JavaScript.
 - 🏆 Gold Star at Problem Solving and C++ at [HackerRank][hackerrank]
 - 🥈 Silver Star at C at [HackerRank][hackerrank]
 - ⭐ 2 Stars at [CodeChef][codcf]
-- 😎 Hobbies: Playing videogames, rapping, solving rubix cube
+- 😎 Hobbies: Playing videogames, rapping, solving rubix cube, table tennis.
 
 ### Concatenate with me:
 
@@ -51,6 +53,8 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 <!--START_SECTION:activity-->
 <br>
 💲 Made GoldPriceChecker (https://github.com/RetardSquad/PythonProjects/tree/master/GoldPriceChecker)
+
+🌎Contributed to Open-source community during Hacktoberfest 2020
 <!--END_SECTION:activity-->
 
 </details>
