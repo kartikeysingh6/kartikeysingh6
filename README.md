@@ -67,6 +67,8 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
   <a href="https://github.com/kartikeysingh6/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeysingh6&layout=compact" /></a>
 </details>
 
+![Bruhh](https://komarev.com/ghpvc/?username=kartikeysingh6&color=blue)
+
 [website]: https://coolnotepad.webs.com
 [twitter]: https://twitter.com/kartikey5
 [youtube]: https://youtube.com/kartikeysingh6
