@@ -13,6 +13,8 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 - ⭐ 2 Stars at [CodeChef][codcf]
 - 😎 Hobbies: Playing videogames, rapping, solving rubix cube, table tennis.
 
+<img align='right' src="https://raw.githubusercontent.com/Rishit-dagli/Rishit-dagli/master/images/octocat-anime.gif" width='110'>
+
 ### Concatenate with me:
 
 [<img align="left" alt="Notepad Tricks" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
