@@ -74,7 +74,7 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 [website]: https://coolnotepad.webs.com
 [twitter]: https://twitter.com/kartikey5
 [youtube]: https://youtube.com/kartikeysingh6
-[instagram]: https://instagram.com/iamkartik_kay
+[instagram]: https://instagram.com/kartikey.mp3
 [linkedin]: https://linkedin.com/in/kartikeysingh6
 [hackerrank]: https://www.hackerrank.com/kartikeysingh_6
 [codcf]: https://www.codechef.com/users/kartikeysingh6
