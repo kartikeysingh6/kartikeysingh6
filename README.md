@@ -54,7 +54,7 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
   
 <!--START_SECTION:activity-->
 <br>
-💲 Made GoldPriceChecker (https://github.com/RetardSquad/PythonProjects/tree/master/GoldPriceChecker)
+🖼️ Made PerspectiveChangerv1 (https://github.com/kartikeysingh6/OpenCVProjects/tree/main/PerspectiveChangerv1)
 
 🌎Contributed to Open-source community during Hacktoberfest 2020
 <!--END_SECTION:activity-->
