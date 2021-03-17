@@ -7,11 +7,11 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 
 ## I'm a Gamer, a Programmer, an Ethical Hacker and an Indian!
 
-- 🔭 I’m currently learning about Computer Vision by OpenCV on Python.
+- 🔭 I’m currently learning about OpenCV using Python.
 - 🏆 Gold Star at Problem Solving and C++ at [HackerRank][hackerrank]
 - 🥈 Silver Star at C at [HackerRank][hackerrank]
-- ⭐ 2 Stars at [CodeChef][codcf]
-- 😎 Hobbies: Playing videogames, rapping, solving rubix cube, table tennis.
+- ⭐ 3 Stars at [CodeChef][codcf]
+- 😎 Hobbies: Playing videogames, rapping, solving rubix cube, table tennis and programming of course.
 
 <img align='right' src="https://raw.githubusercontent.com/Rishit-dagli/Rishit-dagli/master/images/octocat-anime.gif" width='110'>
 
@@ -74,7 +74,7 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 [website]: https://coolnotepad.webs.com
 [twitter]: https://twitter.com/kartikey5
 [youtube]: https://youtube.com/kartikeysingh6
-[instagram]: https://instagram.com/kartikey.mp3
+[instagram]: https://instagram.com/kartikey.jpeg
 [linkedin]: https://linkedin.com/in/kartikeysingh6
 [hackerrank]: https://www.hackerrank.com/kartikeysingh_6
 [codcf]: https://www.codechef.com/users/kartikeysingh6
