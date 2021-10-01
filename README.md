@@ -17,12 +17,12 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 
 ### Concatenate with me:
 
-[<img align="left" alt="Notepad Tricks" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Kartikey's YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Kartikey's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kartikey's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kartikey's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Kartikey's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][fb]
+[<img align="left" alt="Notepad Tricks" width="30px" src="https://img.icons8.com/office/48/000000/globe.png" />][website]
+[<img align="left" alt="Kartikey's YouTube" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
+[<img align="left" alt="Kartikey's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="Kartikey's LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="Kartikey's Instagram" width="30px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="Kartikey's Facebook" width="30px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][fb]
 
 <br/>
 
@@ -34,7 +34,7 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 <img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Kali Linux" width="33px" src="https://www.freepngimg.com/thumb/android/68988-kali-android-linux-free-clipart-hq.png" />
 <img align="left" alt="Git" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="33px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="33px" src="https://img.icons8.com/color-glass/48/000000/github.png" />
 <img align="left" alt="Terminal" width="33  px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
@@ -54,9 +54,12 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
   
 <!--START_SECTION:activity-->
 <br>
-🖼️ Made PerspectiveChangerv1 (https://github.com/kartikeysingh6/OpenCVProjects/tree/main/PerspectiveChangerv1)
 
-🌎Contributed to Open-source community during Hacktoberfest 2020
+🌎Contributing to Open-source community during Hacktoberfest 2021
+  
+Participating in Learn to Earn Cloud Challange
+  
+Participating in 30 Days of Google Cloud Challange
 <!--END_SECTION:activity-->
 
 </details>
