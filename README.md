@@ -7,12 +7,12 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 
 # 'bout Me!
 
-- 👨‍🎓 I'm a Gamer, a Programmer, an Ethical Hacker and an Indian****
+- 👨‍🎓 I'm a Gamer, a Programmer, an Ethical Hacker and an Indian
 - 🏆 Gold Star at Problem Solving and C++ at [HackerRank][hackerrank]
 - 🥈 Silver Star at C at [HackerRank][hackerrank]
 - ⭐ 3 Stars at [CodeChef][codcf]
 - 🎓 Beta Student Ambassador at Microsoft
-- 🌎 Contributed to open-source in Hacktoberfest 2020, 2021
+- 🌎 Contributed to open-source community during Hacktoberfest 2020, 2021
 - ☁️ Learned about Google Cloud during Learn to Earn Cloud Challenge & 30 Days of Google Cloud on [Qwiklabs][qwik]
 - 👕 Owner of lots of Swags from Nikon, Microsoft, Veeam, Digital Ocean, Cockroach Labs and Google.
 
