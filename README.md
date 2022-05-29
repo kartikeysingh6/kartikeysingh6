@@ -7,13 +7,11 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 
 # 'bout Me!
 
-- 👨‍🎓 I'm a Gamer, a Programmer, an Ethical Hacker and an Indian
+- 👨‍🎓 I'm a Gamer, Programmer and an Indian
 - 🏆 Gold Star at Problem Solving and C++ at [HackerRank][hackerrank]
-- 🥈 Silver Star at C at [HackerRank][hackerrank]
-- ⭐ 3 Stars at [CodeChef][codcf]
+- ⭐ 3 Stars at [LeetCode][leet]
 - 🎓 Beta Student Ambassador at Microsoft
 - 🌎 Contributed to open-source community during Hacktoberfest 2020, 2021
-- ☁️ Learned about Google Cloud during Learn to Earn Cloud Challenge & 30 Days of Google Cloud on [Qwiklabs][qwik]
 - 👕 Owner of lots of Swags from Nikon, Microsoft, Veeam, Digital Ocean, Cockroach Labs and Google.
 
 <img align='right' src="https://github.com/kartikeysingh6/kartikeysingh6/blob/master/images/octocat-anime.gif" width='160'>
@@ -62,3 +60,4 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 [codcf]: https://www.codechef.com/users/kartikeysingh6
 [fb]: https://www.facebook.com/kartikeysingh6
 [qwik]: https://www.qwiklabs.com/public_profiles/90e61e35-c74f-4436-9213-307ae3583447
+[leet]: https://leetcode.com/kartikeysingh6/
