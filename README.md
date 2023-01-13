@@ -34,7 +34,7 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 
 # 📊 Statistics:
 
-  ![Kartikey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikeysingh6&show_icons=true&theme=radical&layout=compact)ㅤ ㅤ ㅤㅤ ㅤ![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeysingh6&layout=compact)
+  ![Kartikey's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kartikeysingh6&show_icons=true&theme=radical&layout=compact)ㅤ ㅤ ㅤㅤ ㅤ![Languages Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kartikeysingh6&layout=compact)
 
   ![Profile View](https://komarev.com/ghpvc/?username=kartikeysingh6&color=blue)
 
