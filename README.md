@@ -19,15 +19,13 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 <br/>
 
 # Languages & Tools I Know:
-<img align="left" alt="C++" width="33px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png"/>
-<img align="left" alt="Python" width="33px" src="https://www.freepngimg.com/thumb/python_logo/7-2-python-logo-free-download-png.png"/>
-<img align="left" alt="HTML5" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Kali Linux" width="33px" src="https://www.freepngimg.com/thumb/android/68988-kali-android-linux-free-clipart-hq.png" />
-<img align="left" alt="Git" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="33px" src="https://img.icons8.com/color-glass/48/000000/github.png" />
-<img align="left" alt="Terminal" width="33  px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="C++" width="33px" src="https://github.com/kartikeysingh6/kartikeysingh6/assets/59006007/5ce6e905-45de-47d0-9312-5e73bf1a1a6b"/>
+<img align="left" alt="Python" width="33px" src="https://github.com/kartikeysingh6/kartikeysingh6/assets/59006007/657c7d9b-641a-4157-a5ea-fb0ef4bb45c1"/>
+<img align="left" alt="HTML5" width="33px" src="https://github.com/kartikeysingh6/kartikeysingh6/assets/59006007/3f1ecb73-7890-4db7-8aa7-7b8348965d3b"/>
+<img align="left" alt="Kali Linux" width="33px" src="https://github.com/kartikeysingh6/kartikeysingh6/assets/59006007/ba471b71-1778-4418-b286-09f030f9a52d"/>
+<img align="left" alt="Git" width="33px" src="https://github.com/kartikeysingh6/kartikeysingh6/assets/59006007/542332a2-b84c-40db-b312-748ae1873c4f"/>
+<img align="left" alt="GitHub" width="33px" src="https://github.com/kartikeysingh6/kartikeysingh6/assets/59006007/7c5c8aab-6319-40ab-9146-1c08d52278bd"/>
+<img align="left" alt="Terminal" width="33px" src="https://github.com/kartikeysingh6/kartikeysingh6/assets/59006007/ef0ff2b6-36bf-44e1-9aaf-361f7d076409"/>
 
 <br>
 <br>
@@ -41,12 +39,13 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 
 # Concatenate With Me:
 
-[<img align="left" alt="Notepad Tricks" width="30px" src="https://img.icons8.com/office/48/000000/globe.png" />][website]
-[<img align="left" alt="Kartikey's YouTube" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
-[<img align="left" alt="Kartikey's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="Kartikey's LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="Kartikey's Instagram" width="30px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="Kartikey's Facebook" width="30px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][fb]
+
+[<img align="left" alt="Kartikey's Website" width="30px" src="https://github.com/kartikeysingh6/kartikeysingh6/assets/59006007/5c315d2c-8a15-41de-b64a-c53926f5a1c4"/>][website]
+[<img align="left" alt="Kartikey's YouTube" width="30px" src="https://github.com/kartikeysingh6/kartikeysingh6/assets/59006007/7d5e4065-0c05-4e5a-882e-43efc598977b"/>][youtube]
+[<img align="left" alt="Kartikey's Twitter" width="30px" src="https://github.com/kartikeysingh6/kartikeysingh6/assets/59006007/b4fd8b3e-b958-4a19-80ee-90ec8f544d30"/>][twitter]
+[<img align="left" alt="Kartikey's LinkedIn" width="30px" src="https://github.com/kartikeysingh6/kartikeysingh6/assets/59006007/daf9cdb1-2533-4a8e-abb8-8dac83101f0b"/>][linkedin]
+[<img align="left" alt="Kartikey's Instagram" width="30px" src="https://github.com/kartikeysingh6/kartikeysingh6/assets/59006007/5b93e710-89da-475e-9eb8-db5d0b8b0456"/>][instagram]
+[<img align="left" alt="Kartikey's Facebook" width="30px" src="https://github.com/kartikeysingh6/kartikeysingh6/assets/59006007/1a63863a-094b-41bd-860c-94ce3253a7d7"/>][fb]
 
 
 <!--------Links-------->
