@@ -1,5 +1,8 @@
 
-# Hello There! <img src="https://github.com/kartikeysingh6/kartikeysingh6/blob/master/images/wave.gif" width="40px">
+<img align="left" src="https://github.com/kartikeysingh6/kartikeysingh6/blob/master/images/wave.gif" width="70px">
+
+#  Hello There!
+
 ### Welcome to my GitHub profile!, my name is Kartikey Singh
 
 I was born in holy city Varanasi, I did my 12<sup>th</sup> from Central Hindu Boys School and I'm 
