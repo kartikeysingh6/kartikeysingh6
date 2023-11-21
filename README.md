@@ -12,9 +12,10 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 
 - 👨‍🎓 I'm a Gamer, Programmer and an Indian
 - 🏆 Gold Star at Problem Solving and C++ at [HackerRank][hackerrank]
-- ⭐ 3 Stars at [LeetCode][leet]
-- 🎓 Beta Student Ambassador at Microsoft
-- 🌎 Contributed to open-source community during Hacktoberfest 2020, 2021, 2022 and 2023
+- ⭐ 500+ questions at [LeetCode][leet]
+- 🎓 Beta Microsoft Learn Student Ambassador
+- 📈 Proficient in GNU\Linux, OS, Sorting Algorithms and OOPS
+- 🌎 Contributed to open-source community during Hacktoberfest 2020, 2021, 2022
 - 👕 Owner of lots of Swags from Nikon, Microsoft, Veeam, Digital Ocean, Cockroach Labs and Google.
 
 <img align='right' src="https://github.com/kartikeysingh6/kartikeysingh6/blob/master/images/octocat-anime.gif" width='160'>
