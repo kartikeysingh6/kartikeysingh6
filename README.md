@@ -14,6 +14,7 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 - 🏆 Gold Star at Problem Solving and C++ at [HackerRank][hackerrank]
 - ⭐ 500+ questions at [LeetCode][leet]
 - 🎓 Beta Microsoft Learn Student Ambassador
+- ☸️ Contributed to [Ascii Live][HugoMD] and Made India Map, on terminal type ```curl ascii.live/india```
 - 📈 Proficient in GNU\Linux, OS, Sorting Algorithms and OOPS
 - 🌎 Contributed to open-source community during Hacktoberfest 2020, 2021, 2022
 - 👕 Owner of lots of Swags from Nikon, Microsoft, Veeam, Digital Ocean, Cockroach Labs and Google.
@@ -53,7 +54,7 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 
 
 <!--------Links-------->
-
+[HugoMD]: https://github.com/hugomd/ascii-live
 [website]: https://coolnotepad.webs.com
 [twitter]: https://twitter.com/kartikey5
 [youtube]: https://youtube.com/kartikeysingh6
