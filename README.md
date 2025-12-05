@@ -5,18 +5,19 @@
 
 ### Welcome to my GitHub profile!, my name is Kartikey Singh
 
-I was born in holy city Varanasi, I did my 12<sup>th</sup> from Central Hindu Boys School and I'm 
-currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopal.
+I was born in city of knowledge Varanasi, I did my Bachelor's<sup>th</sup> in CSE from IIIT Bhopal and my 12th from Central Hindu Boys School
 
 # 'bout Me!
 
-- 👨‍🎓 I'm a Gamer, Programmer and an Indian
+- 💼 Worked as Full Stack Developer @ Matrice.ai
+- 💼 Worked as Information System Engineer @ ConsultAdd
+- 💼 Worked as Backend Engineer @ KreditBee
+- 🎓 Ex-Microsoft Learn Student Ambassador
+- ☸️ Contributed to [Ascii Live][HugoMD] and Made India Map, on terminal type ```curl ascii.live/india```
+- 📈 Proficient in GNU\Linux, OS, DSA and OOPS
 - 🏆 Gold Star at Problem Solving and C++ at [HackerRank][hackerrank]
 - ⭐ 500+ questions at [LeetCode][leet]
-- 🎓 Beta Microsoft Learn Student Ambassador
-- ☸️ Contributed to [Ascii Live][HugoMD] and Made India Map, on terminal type ```curl ascii.live/india```
-- 📈 Proficient in GNU\Linux, OS, Sorting Algorithms and OOPS
-- 🌎 Contributed to open-source community during Hacktoberfest 2020, 2021, 2022
+- 🌎 Contributing to open-source community since Hacktoberfest 2020
 - 👕 Owner of lots of Swags from Nikon, Microsoft, Veeam, Digital Ocean, Cockroach Labs and Google.
 
 <img align='right' src="https://github.com/kartikeysingh6/kartikeysingh6/blob/master/images/octocat-anime.gif" width='160'>
@@ -36,8 +37,6 @@ currently pursuing my B.Tech in Computer Science and Engineering from IIIT Bhopa
 <br>
 
 # 📊 Statistics:
-
-  ![Kartikey's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kartikeysingh6&show_icons=true&theme=radical&layout=compact)ㅤ ㅤ ㅤㅤ ㅤ![Languages Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kartikeysingh6&layout=compact)
 
   ![Profile View](https://komarev.com/ghpvc/?username=kartikeysingh6&color=blue)
 
