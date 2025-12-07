@@ -5,7 +5,7 @@
 
 ### Welcome to my GitHub profile!, my name is Kartikey Singh
 
-I was born in city of knowledge Varanasi, I did my Bachelor's<sup>th</sup> in CSE from IIIT Bhopal and my 12th from Central Hindu Boys School
+I was born in city of knowledge Varanasi, I did my Bachelor's in CSE from IIIT Bhopal and my 12<sup>th</sup> from Central Hindu Boys School
 
 # 'bout Me!
 
