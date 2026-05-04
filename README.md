@@ -9,10 +9,10 @@ I was born in city of knowledge Varanasi, I did my Bachelor's in CSE from IIIT B
 
 # 'bout Me!
 
-- 💼 Currently working as SWE Expert @ xAI
+- 💼 Working as SDE-I @ Swiggy
+- 💼 Worked as SWE Expert @ xAI
 - 💼 Worked as Full Stack Developer @ Matrice.ai
-- 💼 Worked as Information System Engineer @ ConsultAdd
-- 💼 Worked as Backend Engineer @ KreditBee
+- 💼 Worked as ISE @ ConsultAdd
 - 🎓 Ex-Microsoft Learn Student Ambassador
 - ☸️ Contributed to [Ascii Live][HugoMD] and Made India Map, on terminal type ```curl ascii.live/india```
 - 📈 Proficient in GNU\Linux, OS, DSA and OOPS
